@@ -34,7 +34,7 @@ By the end of this lab, you will:
 
 2. Right-click the folder (or click “New File”) and name the file: `hello_world.c`
 
-3. Enter the following code:
+3. Verify the following code:
 
    ```c
    #include <stdio.h>
